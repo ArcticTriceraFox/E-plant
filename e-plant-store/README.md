@@ -15,7 +15,9 @@ If you are developing a production application, we recommend using TypeScript wi
 ## To Run:
 Open a terminal.
 Change directory to your project:
+
     cd e-plant-store
+    npm install
 
 Run the dev server:
     npm run dev
